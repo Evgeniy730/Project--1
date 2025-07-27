@@ -26,3 +26,9 @@ urllib3            2.5.0
  <!-- git branch bugFix   создать ветку
  git switch bugFix   перейти на ветку -->
 
+  <!-- git commit -m "Изменил немножко README.md"    Создать комит 
+  git switch main                               Перейти на ветку
+  git merge bugFix                              Совместить ветки
+ git branch -d bugFix                           Удалить ветку -->
+
+
