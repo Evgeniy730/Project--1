@@ -32,3 +32,4 @@ urllib3            2.5.0
  git branch -d bugFix                           Удалить ветку -->
 
 
+ <!-- git switch -c bugFix       Создаем и сразу переходим на эту ветку  -->
