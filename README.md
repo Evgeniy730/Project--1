@@ -24,12 +24,21 @@ urllib3            2.5.0
  -->
 
  <!-- git branch bugFix   создать ветку
- git switch bugFix   перейти на ветку -->
+ git switch bugFix   перейти на ветку 
 
-  <!-- git commit -m "Изменил немножко README.md"    Создать комит 
+ git commit -m "Изменил немножко README.md"    Создать комит 
   git switch main                               Перейти на ветку
   git merge bugFix                              Совместить ветки
- git branch -d bugFix                           Удалить ветку -->
+ git branch -d bugFix                           Удалить ветку 
 
 
- <!-- git switch -c bugFix       Создаем и сразу переходим на эту ветку  -->
+ git switch -c bugFix       Создаем и сразу переходим на эту ветку  
+
+ 
+Привет !!!!!!!!!
+
+ git stash                      Спрятать команду или коммит 
+ git stash pop                  Извлечь или достать коммит
+
+  git tag v1.0.0                Создаем версию приложенния или программы
+  git push origin v1.0.0        Добавляем номер версии в гитхаб -->
